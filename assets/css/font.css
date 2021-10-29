@@ -1,3 +1,24 @@
+@font-face { font-family: SharpGrotesk-SemiBold15; src: url('https://tourprofesional.upn.edu.pe/SharpGrotesk-SemiBold15.otf'); } 
+@font-face { font-family: Telegraf-UltraBold; src: url('https://tourprofesional.upn.edu.pe/Telegraf-UltraBold.otf'); } 
+@font-face { font-family: Telegraf-Regular; src: url('https://tourprofesional.upn.edu.pe/Telegraf-Regular.otf'); }
+}
+.SharpGroteskSemiBold15Amarillo{
+    font-family: SharpGrotesk-SemiBold15;
+    color: #FDBA30 !important;
+}
+.SharpGroteskSemiBold15Negro{
+    font-family: SharpGrotesk-SemiBold15;
+    color: #000 !important;
+}
+.TelegrafUltraBoldBlanco{
+    font-family: Telegraf-UltraBold;
+    color: #fff !important;
+}
+.TelegrafRegularNegro{
+    font-family: Telegraf-Regular;
+    color: #000 !important;
+}
+
 @font-face {
     font-family: 'thinkregular';
     src: url('https://html.creativegigstf.com/zoomy/assets/css/beginning_of_summer_3.woff2') format('woff2'),
